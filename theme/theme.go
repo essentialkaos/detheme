@@ -250,9 +250,9 @@ func convertRGBToHex(data string) string {
 		foundColor := rgbRegex.FindStringSubmatch(data)
 		r, g, b := foundColor[1], foundColor[2], foundColor[3]
 
-		ri, _ := strconv.Atoi(r)
-		gi, _ := strconv.Atoi(g)
-		bi, _ := strconv.Atoi(b)
+		ri, _ := strconv.ParseUint(r, 10, 8)
+		gi, _ := strconv.ParseUint(g, 10, 8)
+		bi, _ := strconv.ParseUint(b, 10, 8)
 
 		finalColor := color.RGB{R: uint8(ri), G: uint8(gi), B: uint8(bi)}.ToHex().ToWeb(true, false)
 
@@ -272,9 +272,9 @@ func convertRGBAToHex(data string) string {
 		foundColor := rgbaRegex.FindStringSubmatch(data)
 		r, g, b, a := foundColor[1], foundColor[2], foundColor[3], foundColor[4]
 
-		ri, _ := strconv.Atoi(r)
-		gi, _ := strconv.Atoi(g)
-		bi, _ := strconv.Atoi(b)
+		ri, _ := strconv.ParseUint(r, 10, 8)
+		gi, _ := strconv.ParseUint(g, 10, 8)
+		bi, _ := strconv.ParseUint(b, 10, 8)
 		af, _ := strconv.ParseFloat(a, 64)
 
 		finalColor := color.RGBA{R: uint8(ri), G: uint8(gi), B: uint8(bi)}.WithAlpha(af).ToHex().ToWeb(true, false)
