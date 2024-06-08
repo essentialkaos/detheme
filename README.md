@@ -81,24 +81,7 @@ detheme --generate-man | sudo gzip > /usr/share/man/man1/detheme.1.gz
 
 ### Usage
 
-```
-Usage: detheme {options} theme-file
-
-Options
-
-  --output, -o path    Path to output file
-  --no-color, -nc      Disable colors in output
-  --help, -h           Show this help message
-  --version, -v        Show version
-
-Examples
-
-  detheme my-theme.sublime-color-scheme
-  Convert custom theme to thTheme format
-
-  detheme -o theme1.thTheme my-theme.sublime-color-scheme
-  Convert custom theme to thTheme format and save as theme1.thTheme
-```
+<img src=".github/images/usage.svg" />
 
 ### CI Status
 
