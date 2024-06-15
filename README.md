@@ -1,4 +1,4 @@
-<p align="center"><a href="#readme"><img src="https://gh.kaos.st/detheme.svg"/></a></p>
+<p align="center"><a href="#readme"><img src=".github/images/card.svg"/></a></p>
 
 <p align="center">
   <a href="https://kaos.sh/r/detheme"><img src="https://kaos.sh/r/detheme.svg" alt="GoReportCard" /></a>
@@ -6,7 +6,7 @@
   <a href="https://kaos.sh/b/detheme"><img src="https://kaos.sh/b/b1fa2a1a-3bb3-431c-85c7-6f52cf53cd7d.svg" alt="Codebeat badge" /></a>
   <a href="https://kaos.sh/w/detheme/ci"><img src="https://kaos.sh/w/detheme/ci.svg" alt="GitHub Actions CI Status" /></a>
   <a href="https://kaos.sh/w/detheme/codeql"><img src="https://kaos.sh/w/detheme/codeql.svg" alt="GitHub Actions CodeQL Status" /></a>
-  <a href="#license"><img src="https://gh.kaos.st/apache2.svg"></a>
+  <a href="#license"><img src=".github/images/license.svg"/></a>
 </p>
 
 <p align="center"><a href="#installation">Installation</a> • <a href="#command-line-completion">Command-line completion</a> • <a href="#man-documentation">Man documentation</a> • <a href="#usage">Usage</a> • <a href="#ci-status">CI Status</a> • <a href="#contributing">Contributing</a> • <a href="#license">License</a></p>
@@ -81,7 +81,7 @@ detheme --generate-man | sudo gzip > /usr/share/man/man1/detheme.1.gz
 
 ### Usage
 
-<img src=".github/images/usage.svg" />
+<p align="center"><img src=".github/images/usage.svg"/></p>
 
 ### CI Status
 
