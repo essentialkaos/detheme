@@ -34,7 +34,7 @@ import (
 // Basic utility info
 const (
 	APP  = "detheme"
-	VER  = "0.0.2"
+	VER  = "0.0.3"
 	DESC = "SublimeText color theme downgrader (sublime-color-scheme → tmTheme converter)"
 )
 
