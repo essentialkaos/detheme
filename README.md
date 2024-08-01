@@ -4,6 +4,7 @@
   <a href="https://kaos.sh/r/detheme"><img src="https://kaos.sh/r/detheme.svg" alt="GoReportCard" /></a>
   <a href="https://kaos.sh/l/detheme"><img src="https://kaos.sh/l/ca59d01e7d47014dbf4a.svg" alt="Code Climate Maintainability" /></a>
   <a href="https://kaos.sh/b/detheme"><img src="https://kaos.sh/b/b1fa2a1a-3bb3-431c-85c7-6f52cf53cd7d.svg" alt="Codebeat badge" /></a>
+  <br/>
   <a href="https://kaos.sh/w/detheme/ci"><img src="https://kaos.sh/w/detheme/ci-push.svg" alt="GitHub Actions CI Status" /></a>
   <a href="https://kaos.sh/w/detheme/codeql"><img src="https://kaos.sh/w/detheme/codeql.svg" alt="GitHub Actions CodeQL Status" /></a>
   <a href="#license"><img src=".github/images/license.svg"/></a>
