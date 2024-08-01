@@ -15,8 +15,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/essentialkaos/ek/v12/color"
-	"github.com/essentialkaos/ek/v12/jsonutil"
+	"github.com/essentialkaos/ek/v13/color"
+	"github.com/essentialkaos/ek/v13/jsonutil"
 )
 
 // ////////////////////////////////////////////////////////////////////////////////// //
