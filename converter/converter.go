@@ -13,7 +13,7 @@ import (
 	"strings"
 
 	"github.com/essentialkaos/detheme/theme"
-	"github.com/essentialkaos/ek/v12/uuid"
+	"github.com/essentialkaos/ek/v13/uuid"
 )
 
 // ////////////////////////////////////////////////////////////////////////////////// //

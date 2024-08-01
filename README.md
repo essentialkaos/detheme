@@ -4,7 +4,8 @@
   <a href="https://kaos.sh/r/detheme"><img src="https://kaos.sh/r/detheme.svg" alt="GoReportCard" /></a>
   <a href="https://kaos.sh/l/detheme"><img src="https://kaos.sh/l/ca59d01e7d47014dbf4a.svg" alt="Code Climate Maintainability" /></a>
   <a href="https://kaos.sh/b/detheme"><img src="https://kaos.sh/b/b1fa2a1a-3bb3-431c-85c7-6f52cf53cd7d.svg" alt="Codebeat badge" /></a>
-  <a href="https://kaos.sh/w/detheme/ci"><img src="https://kaos.sh/w/detheme/ci.svg" alt="GitHub Actions CI Status" /></a>
+  <br/>
+  <a href="https://kaos.sh/w/detheme/ci"><img src="https://kaos.sh/w/detheme/ci-push.svg" alt="GitHub Actions CI Status" /></a>
   <a href="https://kaos.sh/w/detheme/codeql"><img src="https://kaos.sh/w/detheme/codeql.svg" alt="GitHub Actions CodeQL Status" /></a>
   <a href="#license"><img src=".github/images/license.svg"/></a>
 </p>
@@ -28,7 +29,7 @@
 
 #### From source
 
-To build the `detheme` from scratch, make sure you have a working Go 1.20+ workspace (_[instructions](https://go.dev/doc/install)_), then:
+To build the `detheme` from scratch, make sure you have a working Go 1.21+ workspace (_[instructions](https://go.dev/doc/install)_), then:
 
 ```
 go install github.com/essentialkaos/detheme@latest
@@ -87,8 +88,8 @@ detheme --generate-man | sudo gzip > /usr/share/man/man1/detheme.1.gz
 
 | Branch | Status |
 |--------|----------|
-| `master` | [![CI](https://kaos.sh/w/detheme/ci.svg?branch=master)](https://kaos.sh/w/detheme/ci?query=branch:master) |
-| `develop` | [![CI](https://kaos.sh/w/detheme/ci.svg?branch=develop)](https://kaos.sh/w/detheme/ci?query=branch:develop) |
+| `master` | [![CI](https://kaos.sh/w/detheme/ci-push.svg?branch=master)](https://kaos.sh/w/detheme/ci-push?query=branch:master) |
+| `develop` | [![CI](https://kaos.sh/w/detheme/ci-push.svg?branch=develop)](https://kaos.sh/w/detheme/ci-push?query=branch:develop) |
 
 ### Contributing
 
