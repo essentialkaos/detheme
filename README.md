@@ -29,7 +29,7 @@
 
 #### From source
 
-To build the `detheme` from scratch, make sure you have a working Go 1.20+ workspace (_[instructions](https://go.dev/doc/install)_), then:
+To build the `detheme` from scratch, make sure you have a working Go 1.21+ workspace (_[instructions](https://go.dev/doc/install)_), then:
 
 ```
 go install github.com/essentialkaos/detheme@latest
