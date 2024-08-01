@@ -87,8 +87,8 @@ detheme --generate-man | sudo gzip > /usr/share/man/man1/detheme.1.gz
 
 | Branch | Status |
 |--------|----------|
-| `master` | [![CI](https://kaos.sh/w/detheme/ci.svg?branch=master)](https://kaos.sh/w/detheme/ci?query=branch:master) |
-| `develop` | [![CI](https://kaos.sh/w/detheme/ci.svg?branch=develop)](https://kaos.sh/w/detheme/ci?query=branch:develop) |
+| `master` | [![CI](https://kaos.sh/w/detheme/ci-push.svg?branch=master)](https://kaos.sh/w/detheme/ci-push?query=branch:master) |
+| `develop` | [![CI](https://kaos.sh/w/detheme/ci-push.svg?branch=develop)](https://kaos.sh/w/detheme/ci-push?query=branch:develop) |
 
 ### Contributing
 
