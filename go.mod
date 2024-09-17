@@ -2,7 +2,7 @@ module github.com/essentialkaos/detheme
 
 go 1.19
 
-require github.com/essentialkaos/ek/v13 v13.5.0
+require github.com/essentialkaos/ek/v13 v13.5.1
 
 require (
 	github.com/essentialkaos/depsy v1.3.0 // indirect
