@@ -11,7 +11,7 @@
 
 <br/>
 
-`detheme` is SublimeText color theme downgrader for converting `*.sublime-color-scheme` files to `*.tmTheme`.
+`detheme` is SublimeText color theme downgrader for converting `*.sublime-color-scheme` files to `*.tmTheme`. It can be helpful if you want to use the SublimeText theme with [`bat`](https://github.com/sharkdp/bat).
 
 **Known limitations:**
 
