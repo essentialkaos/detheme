@@ -2,8 +2,6 @@
 
 <p align="center">
   <a href="https://kaos.sh/r/detheme"><img src="https://kaos.sh/r/detheme.svg" alt="GoReportCard" /></a>
-  <a href="https://kaos.sh/l/detheme"><img src="https://kaos.sh/l/ca59d01e7d47014dbf4a.svg" alt="Code Climate Maintainability" /></a>
-  <br/>
   <a href="https://kaos.sh/w/detheme/ci"><img src="https://kaos.sh/w/detheme/ci-push.svg" alt="GitHub Actions CI Status" /></a>
   <a href="https://kaos.sh/w/detheme/codeql"><img src="https://kaos.sh/w/detheme/codeql.svg" alt="GitHub Actions CodeQL Status" /></a>
   <a href="#license"><img src=".github/images/license.svg"/></a>
@@ -92,10 +90,10 @@ detheme --generate-man | sudo gzip > /usr/share/man/man1/detheme.1.gz
 
 ### Contributing
 
-Before contributing to this project please read our [Contributing Guidelines](https://github.com/essentialkaos/contributing-guidelines#contributing-guidelines).
+Before contributing to this project please read our [Contributing Guidelines](https://github.com/essentialkaos/.github/blob/master/CONTRIBUTING.md).
 
 ### License
 
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-<p align="center"><a href="https://essentialkaos.com"><img src="https://gh.kaos.st/ekgh.svg"/></a></p>
+<p align="center"><a href="https://kaos.dev"><img src="https://raw.githubusercontent.com/essentialkaos/.github/refs/heads/master/images/ekgh.svg"/></a></p>
